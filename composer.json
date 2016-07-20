@@ -1,0 +1,18 @@
+{
+    "name": "monsieurbiz/mbiz_twitter",
+    "description": "Magento module which adds the support of the Twitter API.",
+    "type": "magento-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Jacques Bodin-Hullin",
+            "email": "j.bodinhullin@monsieurbiz.com"
+        }
+    ],
+    "require": {
+        "j7mbo/twitter-api-php": "~1.0.5"
+    },
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency."
+    }
+}
